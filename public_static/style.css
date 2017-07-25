@@ -1,0 +1,77 @@
+body{
+    font: Georgia;
+}
+
+.carousel-inner img{
+    width: 100%;
+    max-height: 450px; !important;
+}
+.custom-search-input{
+    padding: 3px;
+    border: solid 1px #E4E4E4;
+    border-radius: 6px;
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+
+.custom-search-input input{
+    border: 0;
+    box-shadow: none;
+}
+
+.custom-search-input button{
+    margin: 2px 0 0 0;
+    background: none;
+    box-shadow: none;
+    border: 0;
+    color: #666666;
+    padding: 0 8px 0 10px;
+    border-left: solid 1px #ccc;
+}
+
+.custom-search-input button:hover{
+    border: 0;
+    box-shadow: none;
+    border-left: solid 1px #ccc;
+}
+
+.custom-search-input .glyphicon-search{
+    font-size: 23px;
+}
+.carousel-caption h2{
+    font-size: 34px;
+    background-color:rgba(0, 0, 0, 0.5);;
+}
+
+/*List of bars on home page*/
+
+.inner-bar{
+    background-color: #F5F5F5;
+    padding: 20px;
+    margin-top: 20px;
+    overflow:hidden;
+
+}
+#container{
+    padding-bottom: 10px;
+}
+.bar img{
+    width: 300px;
+    height: 200px;
+    float: left;
+    margin-right: 10px;
+}
+li{
+    list-style: none;
+    margin-bottom: 5px;
+}
+h3{
+    margin-top: 0px;
+}
+a:hover{
+    cursor: pointer;
+}
+.grid-item { width: 200px;
+background-color: red}
+.grid-item--width2 { width: 400px;
+background-color: black;}

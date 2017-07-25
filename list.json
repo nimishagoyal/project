@@ -1,0 +1,51 @@
+{
+  "Volar": {
+    "name": "Volar",
+    "address": "44 D'Aguilar St, Central",
+    "tel": "+852 2810 1510",
+    "img": "images/Volar.jpg"
+  },
+
+  "Play": {
+    "name": "Play",
+    "address": "On Hing Building, 1 On Hing Terrace, Central",
+    "tel": "+852 2525 1318",
+    "img": "images/Play.jpg"
+  },
+  "Fly": {
+    "name": "Fly",
+    "address": "G/F, 24-30 Ice House St, Central",
+    "tel": "+852 2810 9902",
+    "img": "images/Fly.jpg"
+  },
+  "CeLaVi": {
+    "name": "Ce La Vi",
+    "address": "California Tower, D’Aguilar Street, Central",
+    "tel": "+852 3700 2300",
+    "img": "images/CeLaVi.jpg"
+  },
+  "Magnum": {
+    "name": "Magnum",
+    "address": "3-4/F, Silver Fortune Plaza, 1 Wellington Street, Lan Kwai Fong Central",
+    "tel": "+852 2116 1602",
+    "img": "images/Magnum.jpg"
+  },
+  "DragonI": {
+    "name": "Dragon I",
+    "address": "The Centrium, 60 Wyndham St, Central",
+    "tel": "+852 3110 1222",
+    "img": "images/DragonI.jpg"
+  },
+  "Drop": {
+    "name": "Drop",
+    "address": "B/F, On Lok Mansion, 39-43 Hollywood Road, Central",
+    "tel": "+852 2543 8856",
+    "img": "images/Drop.jpeg"
+  },
+  "Tazmania": {
+    "name": "Tazmania Ballroom",
+    "address": "1/F Lan Kwai Fong Tower, 33 Wyndham Street, Central",
+    "tel": "+852 2801 5009",
+    "img": "images/Tazmania.jpeg"
+  }
+}

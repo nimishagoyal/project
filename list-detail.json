@@ -1,0 +1,22 @@
+{
+  "Volar": {
+    "name": "Volar",
+    "address": "44 D'Aguilar St, Central",
+    "tel": "+852 2810 1510",
+    "img1": "images/Volar.jpg",
+    "rating": 0.0,
+    "review": "",
+    "Lat": "22.280817",
+    "Lng": "114.155245"
+  },
+  "Play": {
+    "name": "Play",
+    "address": "On Hing Building, 1 On Hing Terrace, Central",
+    "tel": "+852 2525 1318",
+    "img1": "images/Play.jpg",
+    "rating": 0.0,
+    "review": "",
+    "Lat": "22.280817",
+    "Lng": "114.155245"
+  }
+}
